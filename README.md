@@ -13,6 +13,7 @@ Step 1: First, we will import all the modules required to build the project. Ste
 
 
 Task 2 (calculator)
+
 We developed a basic Calculator application using Tkinter and input field, buttons and for the calculation purpose we will use logic in our code defined in functions, like if you want to add two numbers then behind this there must be a logic for addition purpose, similarly for substraction, multiplication, etc, we have created functions whose task is to perform these operations.
 
 There are a variety of functions in Tkinter with the help of them it becomes easy and convenient to make a simple calculator just with this little code. Apart from the Tkinter widgets, we have defined the following functions in our code:
@@ -25,11 +26,17 @@ bt_equal() Function: This function is used to handle the equal button to execute
 
 
 Task 3 (Password generator)
+
 Creating a password generator using Python and the Tkinter library for a simple graphical user interface (GUI) is a great project
 
-We import the Tkinter library and other necessary modules.
-We define a function generate_password that generates a random password based on the desired length and populates it in the entry field.
-We create the main Tkinter window (root) and set its title.
-We create labels, entry fields, and a button for inputting the password length and generating the password.
-When the "Generate Password" button is clicked, it calls the generate_password function.
-The generated password is displayed in the entry field for passwords.
+1. We import the Tkinter library and other necessary modules.
+   
+2. We define a function generate_password that generates a random password based on the desired length and populates it in the entry field.
+   
+3. We create the main Tkinter window (root) and set its title.
+   
+4. We create labels, entry fields, and a button for inputting the password length and generating the password.
+   
+5. When the "Generate Password" button is clicked, it calls the generate_password function.
+   
+6. The generated password is displayed in the entry field for passwords.
